@@ -1,10 +1,8 @@
 package com.yukh.c1.nio;
 
-import com.yukh.c1.MultiplexerTimeServer;
-
-public class TimeSever {
+public class TimeServer {
 	public static void main(String[] args) {
-		int port = 8080;
+		int port = 8889;
 		if (args != null && args.length > 0) {
 			try {
 				port = Integer.parseInt(args[0]);

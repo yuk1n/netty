@@ -1,4 +1,4 @@
-package com.yukh.c1;
+package com.yukh.c1.naio;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
